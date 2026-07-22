@@ -9,7 +9,7 @@ body {
 }
 .container-navbar {
     background-color: gray;
-    font-size: 40px;
+    font-size: 36px;
     color: white;
     display: flex;
     justify-content: space-evenly;
