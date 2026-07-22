@@ -15,6 +15,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
+    height: 5vh;
 }
 .img-navbar {
     width: 350px;
@@ -40,7 +41,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100px;
+    height: 5vh;
     text-align: center;
 }
 
