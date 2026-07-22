@@ -27,14 +27,10 @@ body {
     align-items: center;
     width: 100%;
     margin: auto;
-    background-color: brown;
 }
 .img-content {
     max-width: 100%;
     height: auto;
-    border: 5px solid;
-    box-shadow: 43px 10px 15px -3px rgba(0,0,0,0.1);
-    border-radius: 100px;
 }
 
 .container-footer {
