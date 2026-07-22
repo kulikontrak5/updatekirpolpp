@@ -9,7 +9,7 @@ body {
 }
 .container-navbar {
     background-color: gray;
-    font-size: 50px;
+    font-size: 40px;
     color: white;
     display: flex;
     justify-content: space-evenly;
@@ -21,23 +21,6 @@ body {
     height: 300px;
 }
 
-.container-nav {
-    font-size: 28px;
-}
-.container-ul {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    text-decoration: none;
-    list-style: none;
-    background-color: aliceblue;
-    font-weight: bold;
-    text-align: center;
-    height: 80px;
-    margin: auto;
-    max-width: 100%;
-    padding: 0 20px;
-}
 .container-content {
     display: flex;
     justify-content: space-evenly;
@@ -51,7 +34,7 @@ body {
     height: auto;
     border: 5px solid;
     box-shadow: 43px 10px 15px -3px rgba(0,0,0,0.1);
-    border-radius: 200px;
+    border-radius: 100px;
 }
 
 .container-footer {
